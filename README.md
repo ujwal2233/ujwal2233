@@ -27,7 +27,7 @@
 
 💬 <b>Ask Me About:</b>  
 💡 Java • Python • React.js • Django  
-💡 NLP • REST APIs • MERN Stack  
+💡 NLP • REST APIs 
 
 📫 <b>Reach Me At:</b>  
 📧 <code>ujwalpatil2233@gmail.com</code>
